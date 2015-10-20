@@ -8,20 +8,20 @@ Installation
 
 .. ::
 
-    $ pip install boolean
+  $ pip install boolean
 
 Usage
 -----
 
 .. ::
 
-    >>> from boolean import boolean
-    >>> boolean('True')
-    True
-    >>> boolean('t')
-    True
-    >>> boolean('f')
-    False
-    >>> boolean('False')
-    False
+  >>> from boolean import boolean
+  >>> boolean('True')
+  True
+  >>> boolean('t')
+  True
+  >>> boolean('f')
+  False
+  >>> boolean('False')
+  False
 
