@@ -6,14 +6,14 @@ Converts strings such as "true", "True", "y", "n", ... to their equivalent Boole
 Installation
 ------------
 
-.. ::
+.. code::
 
   $ pip install boolean
 
 Usage
 -----
 
-.. ::
+.. code::
 
   >>> from boolean import boolean
   >>> boolean('True')
