@@ -1,8 +1,6 @@
 Boolean
 ========
 
-[![Build Status](https://travis-ci.org/scisco/boolean.svg?branch=develop)](https://travis-ci.org/scisco/boolean)
-
 .. image:: https://travis-ci.org/scisco/boolean.svg?branch=develop
     :target: https://travis-ci.org/scisco/boolean
 
