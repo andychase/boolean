@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 # Parse the version from the affine module.
-with open('boolean/__init__.py') as f:
+with open('booleanp/__init__.py') as f:
     for line in f:
         if "__version__" in line:
             version = line.split("=")[1].strip()
@@ -14,7 +14,7 @@ with codecs_open('README.rst', encoding='utf-8') as f:
     readme = f.read()
 
 
-setup(name='boolean',
+setup(name='booleanp',
       version=version,
       description="Converts string to their equivalent boolean value",
       long_description=readme,
