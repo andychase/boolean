@@ -1,5 +1,5 @@
 booleanp
-=======
+========
 
 Converts strings such as "true", "True", "y", "n", ... to their equivalent Boolean value.
 
@@ -8,14 +8,14 @@ Installation
 
 .. ::
 
-  $ pip install booleanp
+  $ pip install boolean
 
 Usage
 -----
 
 .. ::
 
-  >>> from booleanp import boolean
+  >>> from boolean import boolean
   >>> boolean('True')
   True
   >>> boolean('t')

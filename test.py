@@ -1,6 +1,6 @@
 import unittest
 
-from booleanp import boolean
+from boolean import boolean
 
 
 class BooleanTestCase(unittest.TestCase):
